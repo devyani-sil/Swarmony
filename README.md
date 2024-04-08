@@ -12,6 +12,7 @@ It is a dynamic virtual collaboration platform for musicians, singers, composers
 * React - JS library
 * Node - JS library
 * Express JS
+* Mongodb
 
 #### Screenshots:
 ![image](https://github.com/devyani-sil/Swarmony/assets/109058841/7ec1ae08-294f-4e38-a0cd-4b0b0f8edb10)
